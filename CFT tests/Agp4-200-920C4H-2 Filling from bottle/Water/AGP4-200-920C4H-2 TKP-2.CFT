@@ -1,0 +1,29 @@
+EXTENDED
+ 5 
+Operator=Takapula
+Lot Number=1
+Hardware Serial Number=07182018-3528
+Type of Test=Liquid Perm - Ambient
+Lohm Table=lohmtable.cal
+11-23-2020
+Huawei
+1
+X
+ 0 
+Water
+ 1
+AGP4-200-920C4H-2
+ 2.23
+ .14
+ 13.90133
+ 49.6626 , 14.31985
+ 53.13469 , 14.33354
+ 57.11775 , 14.34727
+ 59.06429 , 14.361
+ 61.99504 , 14.37468
+ 65.15829 , 14.38834
+ 68.84869 , 14.40204
+ 83.18021 , 14.41568
+0,0
+
+0,0

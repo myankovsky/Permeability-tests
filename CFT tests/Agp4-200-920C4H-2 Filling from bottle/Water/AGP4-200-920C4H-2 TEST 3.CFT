@@ -1,0 +1,29 @@
+EXTENDED
+ 5 
+Operator=Yankovsky
+Lot Number=1
+Hardware Serial Number=07182018-3528
+Type of Test=Liquid Perm - Ambient
+Lohm Table=lohmtable.cal
+11-23-2020
+Huawei
+1
+X
+ 0 
+Water
+ 1
+AGP4-200-920C4H-2
+ 2.23
+ .14
+ 13.918
+ 13.14371 , 14.35598
+ 14.08394 , 14.36965
+ 14.79644 , 14.3833
+ 15.26234 , 14.39696
+ 15.95809 , 14.41062
+ 17.02897 , 14.42427
+ 17.98751 , 14.43795
+ 19.03864 , 14.45162
+0,0
+
+0,0

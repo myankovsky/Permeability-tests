@@ -1,0 +1,22 @@
+EXTENDED
+ 5 
+Operator=Yankovsky
+Lot Number=1
+Hardware Serial Number=10162017-3444
+Dry Parameter=C:\PROGRAM FILES (X86)\CAPWIN\USERS\DEFAULT\DEFAULT-GUPTA.TPF
+Lohm Table=lohmtable.cal
+09-25-2020
+Huawei
+
+Air
+ 0 
+AGP4-200-980C2h-3
+ 2.05
+ .145
+ 15.0165
+ 3836 , 15.14984
+ 6132 , 15.21308
+0,0
+
+D, 2, .1, 30, 10, 50, 1, 2, 1.450382, 50
+0,0
