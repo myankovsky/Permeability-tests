@@ -1,0 +1,63 @@
+
+                              PERMEABILITY RESULTS
+
+                                   09-21-2020
+
+              Porous Materials, Inc.  Analytical Services Division
+                                20 Dutch Mill Rd.
+                             Ithaca, NY  14850  USA
+                PHONE 607.257.4267, 257.5544, or 1.800.825.5764
+                             Email: info@pmiapp.com
+                                 www.pmiapp.com
+
+FOR:           Huawei
+               
+
+OPERATOR:      Yankovsky
+LOT NUMBER:    1
+HARDWARE SERIAL NUMBER:10162017-3444
+DRY PARAMETER: C:\PROGRAM FILES (X86)\CAPWIN\USERS\DEFAULT\DEFAULT-GUPTA.TPF
+LOHM TABLE:    lohmtable.cal
+
+SAMPLE ID:     AGP2-150-1
+
+TIME:          13:28:42
+FILE:          C:\Users\ywx917257\Desktop\Permeability tests\CFT Files\AGP2-150-2\GAS\AGP2-150-2 (6) 05.CFT
+
+SAMPLE THICKNESS : 0.164 cm
+SAMPLE DIAMETER : 2.050 cm
+FLUID USED : AIR
+FLUID VISCOSITY : 0.019 CP
+
+FLOW RATE COLUMNS:
+     A: Flow in CC/SEC.
+     B: Specific Flow in LITERS/MIN/CM^2.
+     C: Flow in LITER/PSI/CM^2/SEC.
+     D: Flow in LITER/PSI/CM^2/MIN.
+
+  DIFFERENTIAL                    FLOW RATE                    PERMEABILITY
+    PRESSURE           A          B          C          D          DARCYS
+       PSI    
+------------------------------------------------------------------------
+   0.017750        13.311    0.24197     0.22721      13.632      9.9011
+   0.095779        98.822     1.7964     0.31260      18.756      13.587
+    0.10049        106.60     1.9378     0.32139      19.284      13.967
+    0.11243        117.13     2.1293     0.31565      18.939      13.712
+    0.12063        126.51     2.2998     0.31774      19.065      13.799
+    0.12523        132.67     2.4117     0.32096      19.258      13.937
+    0.12784        135.04     2.4549     0.32005      19.203      13.896
+    0.14226        147.24     2.6767     0.31359      18.815      13.609
+    0.15232        157.60     2.8649     0.31347      18.808      13.600
+    0.16302        168.40     3.0612     0.31297      18.778      13.573
+    0.17719        183.20     3.3303     0.31325      18.795      13.579
+    0.18832        194.20     3.5302     0.31243      18.746      13.538
+    0.19785        205.38     3.7334     0.31450      18.870      13.624
+    0.23327        233.80     4.2501     0.30366      18.220      13.139
+    0.28023        277.27     5.0402     0.29977      17.986      12.950
+    0.74304        641.24     11.657     0.26147      15.688      11.126
+     1.5905        1180.5     21.459     0.22487      13.492      9.3127
+     2.4636        1646.7     29.935     0.20252      12.151      8.1617
+     3.2726        2037.0     37.029     0.18858      11.315      7.4156
+
+Average Darcy Permeability Constant =    9.6964
+---------------------------------------------------------------------------
